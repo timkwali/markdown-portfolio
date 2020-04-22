@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Picture of Timring](https://image.winudf.com/v2/user/avatar/OTQ5NDQ0X2ZhY2Vib29rXzIwMTkwMTE5MjAyNDAwMTU1.jpeg?type=.png&h=92)
